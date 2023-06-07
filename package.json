@@ -4,7 +4,10 @@
   "description": "",
   "keywords": ["epaper", "image", "convert"],
   "files":[
-    ".vscode"
+    ".vscode",
+    ".gitignore",
+    ".git",
+    "LICENSE"
   ],
   "repository": {
     "type": "git",
