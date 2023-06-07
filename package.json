@@ -1,0 +1,19 @@
+{
+  "name": "img2epaper",
+  "version": "1.1.2",
+  "description": "",
+  "keywords": ["epaper", "image", "convert"],
+  "files":[
+    ".vscode"
+  ],
+  "bin": {
+    "imgconvert": "index.js"
+  },
+  "author": "Chutian",
+  "license": "Apache",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^10.0.1",
+    "jimp": "^0.22.8"
+  }
+}
